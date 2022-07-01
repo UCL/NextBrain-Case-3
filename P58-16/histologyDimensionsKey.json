@@ -1,241 +1,241 @@
 {
     "1": {
-        "width": 910,
-        "height": 594,
+        "width": 115,
+        "height": 588,
         "slices": 17,
         "orientation": "coronal"
     },
     "2": {
-        "width": 796,
-        "height": 545,
+        "width": 95,
+        "height": 542,
         "slices": 18,
         "orientation": "coronal"
     },
     "3": {
-        "width": 822,
+        "width": 114,
         "height": 596,
         "slices": 40,
         "orientation": "coronal"
     },
     "4": {
-        "width": 895,
-        "height": 590,
+        "width": 122,
+        "height": 584,
         "slices": 18,
         "orientation": "coronal"
     },
     "5": {
-        "width": 888,
-        "height": 561,
+        "width": 101,
+        "height": 562,
         "slices": 40,
         "orientation": "coronal"
     },
     "6": {
-        "width": 915,
-        "height": 570,
+        "width": 153,
+        "height": 566,
         "slices": 40,
         "orientation": "coronal"
     },
     "7": {
-        "width": 926,
-        "height": 582,
+        "width": 77,
+        "height": 583,
         "slices": 41,
         "orientation": "coronal"
     },
     "8": {
-        "width": 842,
-        "height": 564,
+        "width": 71,
+        "height": 563,
         "slices": 18,
         "orientation": "coronal"
     },
     "9": {
-        "width": 1024,
-        "height": 560,
+        "width": 112,
+        "height": 555,
         "slices": 18,
         "orientation": "coronal"
     },
     "10": {
-        "width": 879,
-        "height": 633,
+        "width": 527,
+        "height": 415,
         "slices": 40,
         "orientation": "coronal"
     },
     "11": {
-        "width": 906,
-        "height": 576,
+        "width": 113,
+        "height": 571,
         "slices": 19,
         "orientation": "coronal"
     },
     "12": {
-        "width": 946,
-        "height": 562,
+        "width": 101,
+        "height": 558,
         "slices": 18,
         "orientation": "coronal"
     },
     "13": {
-        "width": 864,
-        "height": 597,
+        "width": 239,
+        "height": 562,
         "slices": 20,
         "orientation": "coronal"
     },
     "14": {
-        "width": 962,
-        "height": 619,
+        "width": 242,
+        "height": 583,
         "slices": 18,
         "orientation": "coronal"
     },
     "15": {
-        "width": 926,
-        "height": 573,
+        "width": 131,
+        "height": 565,
         "slices": 19,
         "orientation": "coronal"
     },
     "16": {
-        "width": 927,
-        "height": 580,
+        "width": 92,
+        "height": 577,
         "slices": 17,
         "orientation": "coronal"
     },
     "17": {
-        "width": 249,
+        "width": 39,
         "height": 347,
         "slices": 39,
         "orientation": "axial"
     },
     "18": {
-        "width": 613,
-        "height": 853,
+        "width": 82,
+        "height": 852,
         "slices": 19,
         "orientation": "coronal"
     },
     "19": {
-        "width": 911,
-        "height": 529,
+        "width": 62,
+        "height": 528,
         "slices": 17,
         "orientation": "coronal"
     },
     "20": {
-        "width": 958,
-        "height": 587,
+        "width": 126,
+        "height": 580,
         "slices": 17,
         "orientation": "coronal"
     },
     "21": {
-        "width": 206,
+        "width": 39,
         "height": 360,
         "slices": 39,
         "orientation": "axial"
     },
     "22": {
-        "width": 871,
-        "height": 557,
+        "width": 138,
+        "height": 554,
         "slices": 38,
         "orientation": "coronal"
     },
     "23": {
-        "width": 873,
-        "height": 534,
+        "width": 71,
+        "height": 533,
         "slices": 19,
         "orientation": "coronal"
     },
     "24": {
-        "width": 611,
-        "height": 797,
+        "width": 145,
+        "height": 791,
         "slices": 23,
         "orientation": "coronal"
     },
     "25": {
-        "width": 910,
+        "width": 41,
         "height": 525,
         "slices": 41,
         "orientation": "sagittal"
     },
     "26": {
-        "width": 246,
+        "width": 39,
         "height": 348,
         "slices": 39,
         "orientation": "axial"
     },
     "27": {
-        "width": 639,
-        "height": 864,
+        "width": 312,
+        "height": 819,
         "slices": 20,
         "orientation": "coronal"
     },
     "28": {
-        "width": 836,
+        "width": 38,
         "height": 564,
         "slices": 38,
         "orientation": "sagittal"
     },
     "29": {
-        "width": 566,
-        "height": 793,
+        "width": 181,
+        "height": 782,
         "slices": 25,
         "orientation": "coronal"
     },
     "30": {
-        "width": 946,
-        "height": 593,
+        "width": 174,
+        "height": 576,
         "slices": 18,
         "orientation": "coronal"
     },
     "31": {
-        "width": 1079,
+        "width": 55,
         "height": 589,
         "slices": 18,
         "orientation": "coronal"
     },
     "32": {
-        "width": 852,
-        "height": 557,
+        "width": 123,
+        "height": 556,
         "slices": 39,
         "orientation": "coronal"
     },
     "33": {
-        "width": 808,
+        "width": 63,
         "height": 544,
         "slices": 18,
         "orientation": "coronal"
     },
     "34": {
-        "width": 952,
-        "height": 578,
+        "width": 146,
+        "height": 567,
         "slices": 18,
         "orientation": "coronal"
     },
     "35": {
-        "width": 996,
-        "height": 562,
+        "width": 94,
+        "height": 559,
         "slices": 18,
         "orientation": "coronal"
     },
     "36": {
-        "width": 801,
+        "width": 19,
         "height": 529,
         "slices": 19,
         "orientation": "sagittal"
     },
     "37": {
-        "width": 911,
-        "height": 575,
+        "width": 202,
+        "height": 550,
         "slices": 18,
         "orientation": "coronal"
     },
     "38": {
-        "width": 898,
+        "width": 26,
         "height": 551,
         "slices": 26,
         "orientation": "sagittal"
     },
     "39": {
-        "width": 173,
+        "width": 39,
         "height": 208,
         "slices": 39,
         "orientation": "axial"
     },
     "40": {
-        "width": 853,
-        "height": 596,
+        "width": 93,
+        "height": 597,
         "slices": 39,
         "orientation": "coronal"
     }
